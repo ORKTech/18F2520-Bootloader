@@ -1,4 +1,4 @@
-"""markdown
+
 # PIC18F2520 Bootloader with Intel HEX Support
 
 A comprehensive bootloader implementation for PIC18F2520 microcontroller with full Intel HEX firmware update capability.
